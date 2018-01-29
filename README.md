@@ -1,4 +1,4 @@
-# PK_2017SS
+# FP_2017WS
 
 Content of the course
 
